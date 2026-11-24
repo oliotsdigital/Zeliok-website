@@ -20,7 +20,7 @@ export function ZeliokLogo({
   return (
     <div className="flex items-center">
       <Image
-        src="/images/Logo.png"
+        src="/images/logo.png"
         alt={alt}
         width={175}
         height={70}
