@@ -2316,9 +2316,6 @@
   .opacity-85 {
     opacity: 85%;
   }
-  .mix-blend-screen {
-    mix-blend-mode: screen;
-  }
   .shadow-2xl {
     --tw-shadow: 0 25px 50px -12px var(--tw-shadow-color, rgb(0 0 0 / 0.25));
     box-shadow: var(--tw-inset-shadow), var(--tw-inset-ring-shadow), var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow);

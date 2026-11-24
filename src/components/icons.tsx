@@ -20,12 +20,12 @@ export function ZeliokLogo({
   return (
     <div className="flex items-center">
       <Image
-        src="/images/logo.png"
+        src="/images/zeliok-logo.png"
         alt={alt}
         width={175}
         height={70}
         priority
-        className={`object-contain mix-blend-screen ${className}`}
+        className={`object-contain ${className}`}
       />
     </div>
   );
